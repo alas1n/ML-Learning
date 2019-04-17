@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/alasin/PycharmProjects/Tensorflow_test_Project/logs/model.ckpt"
+all_model_checkpoint_paths: "/home/alasin/PycharmProjects/Tensorflow_test_Project/logs/model.ckpt"

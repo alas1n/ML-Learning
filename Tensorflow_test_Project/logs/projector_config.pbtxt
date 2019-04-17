@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "fmnist_embedding:0"
+  metadata_path: "/home/alasin/PycharmProjects/Tensorflow_test_Project/logs/metadata.tsv"
+  sprite {
+    image_path: "/home/alasin/PycharmProjects/Tensorflow_test_Project/logs/sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
